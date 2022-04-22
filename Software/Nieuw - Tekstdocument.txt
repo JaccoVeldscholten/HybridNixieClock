@@ -1,0 +1,2 @@
+# Build (debug) folder of STM32
+Debug
